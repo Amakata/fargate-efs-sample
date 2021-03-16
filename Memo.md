@@ -11,6 +11,3 @@ mkdir fargate-efs
 cd fargate-efs
 cdk init sample-app --language=typescript
 ```
-
-
-
